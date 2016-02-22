@@ -108,10 +108,3 @@ novostroy-spb.ru##body>div>img.loader
 novostroy-spb.ru##.adv_overlay_sidebar
 spbguru.ru##.b_link
 spbguru.ru##.trs
-!
-!
-! Прочее
-!
-!
-! Исключение для аннотаций ютьюба. В подписке RU AdList они заблокированы, это правило возвращает их обратно.
-@@youtube.com##.video-annotations .annotation-type-text
