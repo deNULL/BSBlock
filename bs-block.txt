@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: BSBlock
-! Homepage: https://denull.ru/
+! Homepage: https://github.com/deNULL/BSBlock
 ! Expires: 3 days
-! Version: 1
+! Version: 2
 !
 !
 ! Фильтры для ВК. Убирают лишнее из новостей, позволяют заходить в раздел "Реклама" с включенным AdBlock
