@@ -2,7 +2,7 @@
 ! Title: BSBlock
 ! Homepage: https://github.com/deNULL/BSBlock
 ! Expires: 3 days
-! Version: 2
+! Version: 3
 !
 !
 ! Фильтры для ВК. Убирают лишнее из новостей, позволяют заходить в раздел "Реклама" с включенным AdBlock
@@ -49,7 +49,7 @@ cdn.krible.com$script
 widget.skobeeff.ru$script
 api-pravoved.s3.amazonaws.com$script
 code.blablateka.com$script
-chat.chatra.io$script
+*.chatra.io$script
 cdn.callbackhunter.com$script
 *.streamwood.ru$script
 *.bhelp.com$script
@@ -77,6 +77,24 @@ leadback.ru$script
 *.pogodiwidget.com$script
 *.returncall.ru$script
 widget.cashmyvisit.com$script
+admeo.ru$script
+b.art.su$script
+callback.pw$script
+callbashka.ru$script
+calltouch.ru$script
+cb-killer.ru$script
+clicktex.ru$script
+client-caller.com$script
+clientcaller.com$script
+comagic.ru$script
+experasoft.com$script
+leadback.ru$script
+leadgenic.com$script
+leadnumber.ru$script
+lptracker.ru$script
+service.dialogwidget.ru$script
+smartcallback.ru$script
+uptocall.com$script
 !
 !
 ! Реклама на отдельных сайтах
