@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: BSBlock
 ! Homepage: https://denull.ru/
-! Expires: 7 days
+! Expires: 3 days
 ! Version: 1
 !
 !
@@ -19,10 +19,38 @@ vk.com##.post[data-ad]
 ! Онлайн-консультанты
 !
 !
-code.jivosite.com
-cp.onicon.ru
-eyenewton.ru
-zopim.com
+code.jivosite.com$script
+cdn.jivosite.com$script
+cp.onicon.ru$script
+eyenewton.ru$script
+zopim.com$script
+*.zopim.com$script
+*.livetex.ru$script
+web.redhelper.ru$script
+cleversite.ru$script
+consultsystems.ru$script
+static.cloudim.ru$script
+cdn.chathelp.ru$script
+code.netroxsc.ru$script
+pr-me.ru$script
+spexe.com$script
+quickchat.pro$script
+milservice.ru$script
+*.tekmi.ru$script
+cackle.me$script
+*.marva.ru$script
+*.webim.ru$script
+me-talk.ru$script
+*.siteheart.com$script
+gotalk.ru$script
+p3chat.com$script
+api.leadiacloud.com$script
+cdn.krible.com$script
+widget.skobeeff.ru$script
+api-pravoved.s3.amazonaws.com$script
+code.blablateka.com$script
+chat.chatra.io$script
+cdn.callbackhunter.com$script
 !
 !
 ! Реклама на отдельных сайтах
