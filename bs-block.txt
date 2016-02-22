@@ -16,7 +16,7 @@ vk.com##.ads_ads_news_wrap
 vk.com##.post[data-ad]
 !
 !
-! Онлайн-консультанты
+! Онлайн-консультанты и сервисы обратных звонков
 !
 !
 code.jivosite.com$script
@@ -51,6 +51,32 @@ api-pravoved.s3.amazonaws.com$script
 code.blablateka.com$script
 chat.chatra.io$script
 cdn.callbackhunter.com$script
+*.streamwood.ru$script
+*.bhelp.com$script
+*.pozvonim.com$script
+widget.onlic.ru$script
+talkdriver.ru$script
+excitel.ru$script
+*.rustalk.net$script
+c.sitehelp.im$script
+cdn.carrotquest.io$script
+*.intercom.io$script
+*.kayako.com$script
+*.olark.com$script
+*.livezilla.net$script
+*.callbackkiller.com$script
+*.callbackhunter.com$script
+*.zendesk.com$script
+*.yaware.ru$script
+2calls.ru$script
+chaser.ru$script
+*.perezvoni.com$script
+hookmyvisit.com$script
+*.clientcaller.ru$script
+leadback.ru$script
+*.pogodiwidget.com$script
+*.returncall.ru$script
+widget.cashmyvisit.com$script
 !
 !
 ! Реклама на отдельных сайтах
