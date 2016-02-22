@@ -1,0 +1,37 @@
+[Adblock Plus 2.0]
+! Title: BSBlock
+! Homepage: https://denull.ru/
+! Expires: 7 days
+! Version: 1
+!
+!
+! Фильтры для ВК. Убирают лишнее из новостей, позволяют заходить в раздел "Реклама" с включенным AdBlock
+!
+!
+@@|*.vk.me/js/al/ads.js
+@@|vk.com/ads*
+vk.com##.ads_ad_box2
+vk.com##.ads_ads_news_right
+vk.com##.ads_ads_news_wrap
+vk.com##.post[data-ad]
+!
+!
+! Онлайн-консультанты
+!
+!
+code.jivosite.com
+cp.onicon.ru
+eyenewton.ru
+zopim.com
+!
+!
+! Реклама на отдельных сайтах
+!
+!
+novostroy-spb.ru##.adv_overlay
+novostroy-spb.ru##.advertise_horrizon
+novostroy-spb.ru##.map_adv_box
+novostroy-spb.ru##body>div>img.loader
+novostroy-spb.ru##.adv_overlay_sidebar
+spbguru.ru##.b_link
+spbguru.ru##.trs
