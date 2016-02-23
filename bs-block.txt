@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/deNULL/BSBlock
 ! Expires: 3 days
 ! Version: 3
+@@||youtube.com^$elemhide
 !
 !
 ! Фильтры для ВК. Убирают лишнее из новостей, позволяют заходить в раздел "Реклама" с включенным AdBlock
@@ -108,4 +109,3 @@ novostroy-spb.ru##body>div>img.loader
 novostroy-spb.ru##.adv_overlay_sidebar
 spbguru.ru##.b_link
 spbguru.ru##.trs
-@@||youtube.com^
