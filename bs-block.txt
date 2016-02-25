@@ -96,6 +96,7 @@ lptracker.ru$third-party
 service.dialogwidget.ru$third-party
 smartcallback.ru$third-party
 uptocall.com$third-party
+agentguru.ru$third-party
 !
 !
 ! Реклама на отдельных сайтах
