@@ -97,6 +97,7 @@
 ||smartcallback.ru$third-party
 ||uptocall.com$third-party
 ||agentguru.ru$third-party
+||*.cloudleadia.com$third-party
 !
 !
 ! Реклама на отдельных сайтах
