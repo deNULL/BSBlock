@@ -2,7 +2,7 @@
 ! Title: BSBlock
 ! Homepage: https://github.com/deNULL/BSBlock
 ! Expires: 3 days
-! Version: 4
+! Version: 5
 !
 !
 ! Фильтры для ВК. Убирают лишнее из новостей, позволяют заходить в раздел "Реклама" с включенным AdBlock
@@ -98,6 +98,7 @@
 ||uptocall.com$third-party
 ||agentguru.ru$third-party
 ||*.cloudleadia.com$third-party
+||*.promit.ru$third-party
 !
 !
 ! Реклама на отдельных сайтах
