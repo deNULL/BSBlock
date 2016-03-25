@@ -116,3 +116,5 @@
 ||spbguru.ru##.trs
 ||emls.ru##.banner
 ||emls.ru##.ban_bottom
+||tjournal.ru##.b-ok-panel
+||tjournal.ru##.b-ok-bg
