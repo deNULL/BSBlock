@@ -2,21 +2,21 @@
 ! Title: BSBlock
 ! Homepage: https://github.com/deNULL/BSBlock
 ! Expires: 3 days
-! Version: 11
+! Version: 12
 !
 !
 ! Фильтры для ВК. Убирают лишнее из новостей, позволяют заходить в раздел "Реклама" с включенным AdBlock
 !
 !
-@@|*.vk.me/js/al/ads.js
-@@|vk.com/ads*
-@@||vk.com/js/al/aes_light.js$script
-||vk.com/ads_rotate.php*
-||vk.com##.ads_ad_box2
-||vk.com##.ads_ads_box2
-||vk.com##.ads_ads_news_right
-||vk.com##.ads_ads_news_wrap
-||vk.com##.post[data-ad]
+@@|*.vk.me/js/al/ads.js$domain=vk.com
+@@|vk.com/ads*$domain=vk.com
+@@||vk.com/js/al/aes_light.js$domain=vk.com
+||vk.com/ads_rotate.php*$domain=vk.com
+||vk.com##.ads_ad_box2$domain=vk.com
+||vk.com##.ads_ads_box2$domain=vk.com
+||vk.com##.ads_ads_news_right$domain=vk.com
+||vk.com##.ads_ads_news_wrap$domain=vk.com
+||vk.com##.post[data-ad]$domain=vk.com
 !
 !
 ! Онлайн-консультанты и сервисы обратных звонков
