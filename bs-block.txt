@@ -11,7 +11,7 @@
 @@|*.vk.me/js/al/ads.js$domain=vk.com
 @@|vk.com/ads*$domain=vk.com
 @@||vk.com/js/al/aes_light.js$domain=vk.com
-||vk.com/ads_rotate.php*$domain=vk.com
+||vk.com/ads_rotate.php$domain=vk.com
 ||vk.com##.ads_ad_box2$domain=vk.com
 ||vk.com##.ads_ads_box2$domain=vk.com
 ||vk.com##.ads_ads_news_right$domain=vk.com
