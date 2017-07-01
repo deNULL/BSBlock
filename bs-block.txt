@@ -119,3 +119,9 @@
 ||emls.ru##.ban_bottom
 ||tjournal.ru##.b-ok-panel
 ||tjournal.ru##.b-ok-bg
+!
+! OpenSubtitles
+!
+||chantly.info$third-party
+||opensubtitles.org##.ui-multiselect-menu + iframe + div
+||opensubtitles.org##.ui-multiselect-menu + iframe + div + div
