@@ -2,7 +2,7 @@
 ! Title: BSBlock
 ! Homepage: https://github.com/deNULL/BSBlock
 ! Expires: 3 days
-! Version: 13
+! Version: 14
 !
 !
 ! Фильтры для ВК. Убирают лишнее из новостей, позволяют заходить в раздел "Реклама" с включенным AdBlock
@@ -123,5 +123,5 @@
 ! OpenSubtitles
 !
 ||chantly.info$third-party
-||opensubtitles.org##.ui-multiselect-menu + iframe + div
-||opensubtitles.org##.ui-multiselect-menu + iframe + div + div
+opensubtitles.org##.ui-multiselect-menu + iframe + div
+opensubtitles.org##.ui-multiselect-menu + iframe + div + div
